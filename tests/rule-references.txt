@@ -4029,3 +4029,16 @@ https://strontic.github.io/xcyclopedia/library/aclui.dll-F883E9CA757B622B032FDCA
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/
 https://web.archive.org/web/20220519091349/https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
+https://portswigger.net/daily-swig/vmware-horizon-under-attack-as-china-based-ransomware-group-targets-log4j-vulnerability
+https://www.loobins.io/binaries/nscurl/
+https://www.virustotal.com/gui/search/behaviour_network%253A*.miningocean.org/files
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
+https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist
+https://strontic.github.io/xcyclopedia/library/vbc.exe-A731372E6F6978CE25617AE01B143351.html
+https://www.loobins.io/binaries/xattr/
+https://learn.microsoft.com/en-us/sql/tools/sqlps-utility?view=sql-server-ver15
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-using-group-policy
+https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1562.004/T1562.004.md#atomic-test-24---set-a-firewall-rule-using-new-netfirewallrule
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+https://x.com/cyb3rops/status/1862406110365245506
+https://www.virustotal.com/gui/file/ded20df574b843aaa3c8e977c2040e1498ae17c12924a19868df5b12dee6dfdd
