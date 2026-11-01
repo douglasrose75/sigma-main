@@ -4029,3 +4029,13 @@ https://strontic.github.io/xcyclopedia/library/aclui.dll-F883E9CA757B622B032FDCA
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/
 https://web.archive.org/web/20220519091349/https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
+https://www.linkedin.com/posts/kevin-beaumont-security_ive-been-assisting-a-few-orgs-hit-with-successful-activity-7268055739116445701-xxjZ/
+https://research.ifcr.dk/certipy-4-0-esc9-esc10-bloodhound-gui-new-authentication-and-request-methods-and-more-7237d88061f7
+https://intel.thedfirreport.com/eventReports/view/70
+https://app.any.run/tasks/69c5abaa-92ad-45ba-8c53-c11e23e05d04/
+https://sysdig.com/blog/detecting-and-mitigating-cve-2024-12084-rsync-remote-code-execution/
+https://www.hexacorn.com/blog/2024/01/01/1-little-known-secret-of-hdwwiz-exe/
+https://blackpointcyber.com/blog/racing-to-exploit-centrestacks-cve-2025-30406/
+https://ss64.com/osx/sw_vers.html
+https://www.hexacorn.com/blog/2015/01/13/beyond-good-ol-run-key-part-24/
+https://x.com/_st0pp3r_/status/1742203752361128162?s=20
